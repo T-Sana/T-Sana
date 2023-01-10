@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @T-Sana
-- 👀 I’m interested in programmation, chess shōgi ...
-- 🌱 I’m currently learning to program and some languages
-- 💞️ I’m looking to collaborate on ____.
-- 📫 How to reach me _____.
+Hi.
